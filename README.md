@@ -9,7 +9,7 @@ Este repositório contém:
 - Meu portfólio pessoal em HTML/CSS  
 
 ##  Links importantes
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- [LinkedIn](https://www.linkedin.com/in/henrique-santos-60180929b/)
 - [GitHub Portfólio](https://github.com/Henriquesantos-git/doc-cogidos-rep)  
 - [Meu Portfólio Online](https://henriquesantos-git.github.io/doc-cogidos-rep/) *(GitHub Pages)*  
 
