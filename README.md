@@ -6,12 +6,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **progra
 Este repositório contém:
 - Exercícios de programação em **Python**  
 - Projetos iniciais da faculdade  
-- Meu portfólio pessoal em HTML/CSS  
-
-##  Links importantes
-- [LinkedIn](https://www.linkedin.com/in/henrique-santos-60180929b/)
-- [GitHub Portfólio](https://github.com/Henriquesantos-git/doc-cogidos-rep)  
-- [Meu Portfólio Online](https://henriquesantos-git.github.io/doc-cogidos-rep/) *(GitHub Pages)*  
+- Meu portfólio pessoal em HTML/CSS   
 
 ## 🛠️ Tecnologias que estou aprendendo
 - Python  
