@@ -19,3 +19,6 @@ Python | Java | HTML
 -Exercícios de Programação Orientada a Objetos em Java
 
 Buscando oportunidade de estágio na área de desenvolvimento para aplicar e expandir meus conhecimentos em programação.
+
+Linkedin: https://www.linkedin.com/in/henrique-santos-60180929b/
+Email: Heenriq.santos19@gmail.com
