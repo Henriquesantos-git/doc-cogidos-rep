@@ -17,3 +17,5 @@ Python | Java | HTML
 -Prática com algoritmos e estruturas de dados 
 -Gerenciador de tarefas em Python
 -Exercícios de Programação Orientada a Objetos em Java
+
+Buscando oportunidade de estágio na área de desenvolvimento para aplicar e expandir meus conhecimentos em programação.
