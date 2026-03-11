@@ -1,5 +1,4 @@
 
-[calculadora_simples.py](https://github.com/user-attachments/files/25914147/calculadora_simples.py)
 #1 Peça ao usuário para cadastrar um nome de usuário e uma senha.
 #2 Depois, solicite que ele faça o login digitando novamente os dados.
 #3 O programa deve verificar se o login está correto:
