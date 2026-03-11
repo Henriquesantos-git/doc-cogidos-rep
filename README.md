@@ -1,21 +1,19 @@
-# Henrique Santos Oliveira
+Olá, eu sou Henrique dos Santos
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **programação** e sempre em busca de aprender novas tecnologias. 🚀  
+Estudante de ADS
+Desenvolvedor em formação
+Tecnologias:
+Python | Java | HTML 
+ 
+   Atualmente estudando
+-Estruturas de Dados
+-Programação Orientada a Objetos
+-Algoritmos
 
-## Sobre este repositório
-Este repositório contém:
-- Exercícios de programação em **Python**  
-- Projetos iniciais da faculdade  
-- Meu portfólio pessoal em HTML/CSS   
+  O que você vai encontrar aqui:
 
-## 🛠️ Tecnologias que estou aprendendo
-- Python  
-- C 
-- HTML & CSS   
-- Lógica de Programação
-- Estruturas de dados
-- Algoritmos
-- Java
-
----
- *Sempre em evolução e buscando novos desafios na área de tecnologia!*
+-Exercícios de lógica de programação  
+-Projetos da faculdade  
+-Prática com algoritmos e estruturas de dados 
+-Gerenciador de tarefas em Python
+-Exercícios de Programação Orientada a Objetos em Java
