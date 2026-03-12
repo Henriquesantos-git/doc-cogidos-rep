@@ -1,4 +1,4 @@
-Olá, eu sou Henrique dos Santos
+Olá meu nome é Henrique dos Santos
 
 Estudante de Análise e Desenvolvimento de Sistemas
 Desenvolvedor em formação
